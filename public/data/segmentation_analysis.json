@@ -1,0 +1,401 @@
+{
+  "Global": {
+    "By System Type": {},
+    "By Growing Type": {},
+    "By Price Range": {},
+    "By End-use": {},
+    "By Distribution Channel": {
+      "Online": {
+        "Third Party E-Commerce Websites": {},
+        "Brand Owned Websites": {}
+      },
+      "Offline": {
+        "Supermarkets/Hypermarkets": {},
+        "Garden Center/Stores": {},
+        "Specialty Stores": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {},
+        "Mexico": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "North America": {
+    "By System Type": {},
+    "By Growing Type": {},
+    "By Price Range": {},
+    "By End-use": {},
+    "By Distribution Channel": {
+      "Online": {
+        "Third Party E-Commerce Websites": {},
+        "Brand Owned Websites": {}
+      },
+      "Offline": {
+        "Supermarkets/Hypermarkets": {},
+        "Garden Center/Stores": {},
+        "Specialty Stores": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {},
+        "Mexico": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Europe": {
+    "By System Type": {},
+    "By Growing Type": {},
+    "By Price Range": {},
+    "By End-use": {},
+    "By Distribution Channel": {
+      "Online": {
+        "Third Party E-Commerce Websites": {},
+        "Brand Owned Websites": {}
+      },
+      "Offline": {
+        "Supermarkets/Hypermarkets": {},
+        "Garden Center/Stores": {},
+        "Specialty Stores": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {},
+        "Mexico": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Asia Pacific": {
+    "By System Type": {},
+    "By Growing Type": {},
+    "By Price Range": {},
+    "By End-use": {},
+    "By Distribution Channel": {
+      "Online": {
+        "Third Party E-Commerce Websites": {},
+        "Brand Owned Websites": {}
+      },
+      "Offline": {
+        "Supermarkets/Hypermarkets": {},
+        "Garden Center/Stores": {},
+        "Specialty Stores": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {},
+        "Mexico": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Latin America": {
+    "By System Type": {},
+    "By Growing Type": {},
+    "By Price Range": {},
+    "By End-use": {},
+    "By Distribution Channel": {
+      "Online": {
+        "Third Party E-Commerce Websites": {},
+        "Brand Owned Websites": {}
+      },
+      "Offline": {
+        "Supermarkets/Hypermarkets": {},
+        "Garden Center/Stores": {},
+        "Specialty Stores": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {},
+        "Mexico": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Middle East": {
+    "By System Type": {},
+    "By Growing Type": {},
+    "By Price Range": {},
+    "By End-use": {},
+    "By Distribution Channel": {
+      "Online": {
+        "Third Party E-Commerce Websites": {},
+        "Brand Owned Websites": {}
+      },
+      "Offline": {
+        "Supermarkets/Hypermarkets": {},
+        "Garden Center/Stores": {},
+        "Specialty Stores": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {},
+        "Mexico": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Africa": {
+    "By System Type": {},
+    "By Growing Type": {},
+    "By Price Range": {},
+    "By End-use": {},
+    "By Distribution Channel": {
+      "Online": {
+        "Third Party E-Commerce Websites": {},
+        "Brand Owned Websites": {}
+      },
+      "Offline": {
+        "Supermarkets/Hypermarkets": {},
+        "Garden Center/Stores": {},
+        "Specialty Stores": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {},
+        "Mexico": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  }
+}
