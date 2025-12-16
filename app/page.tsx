@@ -202,7 +202,7 @@ export default function DashboardPage() {
                 Coherent Dashboard
               </h1>
               <h2 className="text-sm text-black">
-                {dashboardName || 'Global Smart Indoor Gardening System Market'}
+                {dashboardName || 'U.S. Smart Indoor Gardening System Market'}
               </h2>
             </div>
           </div>
